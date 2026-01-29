@@ -7,7 +7,7 @@ export default function Navbar() {
           <a href="#about">About</a>
           <a href="#services">Services</a>
           <a href="#work">Work</a>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Contactt</a>
         </nav>
       </div>
     </header>
